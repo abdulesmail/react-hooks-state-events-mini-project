@@ -8,4 +8,4 @@ function TaskList() {
   );
 }
 
-export default TaskList;
+export default TaskList
